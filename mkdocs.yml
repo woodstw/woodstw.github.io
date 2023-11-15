@@ -1,6 +1,6 @@
 # [Info]
 site_name: 【Black Network Tools】  ✈️@PUSHHHKKK # 左上角标题
-site_url: https://pushkkk.github.io/
+site_url: https://woodstw.github.io/
 site_author: ✈️@PUSHHHKKK 
 site_description: ✈️@PUSHHHKKK 
 
@@ -133,7 +133,7 @@ theme:
     repo: fontawesome/brands/telegram
 edit_uri: edit/main/docs # 编辑按钮跳转的链接
 ## [top-right corner]
-repo_url: https://github.com/pushkkk/pushkkk.github.io # 右上角点击跳转的链接
+repo_url: https://github.com/woodstw/woodstw.github.io # 右上角点击跳转的链接
 repo_name: ✈️@PUSHHHKKK # 右上角的名字
 ## [bottom-left corner]
 copyright: Push CC-BY-4.0 # 左下角的版权声明
@@ -141,10 +141,10 @@ copyright: Push CC-BY-4.0 # 左下角的版权声明
 extra:
   social: # icons
     - icon: fontawesome/brands/telegram
-      link: https://pushkkk.github.io/pic/IMEAXXX.png
+      link: https://woodstw.github.io/pic/IMEAXXX.png
       name: Telegram | ✈️@PUSHHHKKK # 鼠标悬浮提示
     - icon: fontawesome/brands/github
-      link: https://pushkkk.github.io
+      link: https://woodstw.github.io
       name: GitHub | ✈️@PUSHHHKKK 
 
 # [Extensions]
