@@ -1,0 +1,183 @@
+# [Info]
+site_name: 【Black Network Tools】  ✈️@PUSHHHKKK # 左上角标题
+site_url: https://pushkkk.github.io/
+site_author: ✈️@PUSHHHKKK 
+site_description: ✈️@PUSHHHKKK 
+
+# [Navigtion]
+Nav:
+  - A ❤️ Tool download 🧰:
+    - A ❤️ Tool download 🧰/index.md
+    - A ❤️ Tool download 🧰/others/others.md
+    - All:
+      - A ❤️ Tool download 🧰/All/all.md   
+    - PUSH:
+      - A ❤️ Tool download 🧰/PUSH/2301.md
+      - A ❤️ Tool download 🧰/PUSH/2302.md
+      - A ❤️ Tool download 🧰/PUSH/2303.md
+      - A ❤️ Tool download 🧰/PUSH/2304.md
+      - A ❤️ Tool download 🧰/PUSH/2305.md
+      - A ❤️ Tool download 🧰/PUSH/2306.md
+      - A ❤️ Tool download 🧰/PUSH/2307.md
+      - A ❤️ Tool download 🧰/PUSH/2308.md
+      - A ❤️ Tool download 🧰/PUSH/2309.md
+      - A ❤️ Tool download 🧰/PUSH/23010.md
+    - K8tools:
+      - A ❤️ Tool download 🧰/K8tools/o2301.md  
+  - Document:
+    - Document/index.md
+    - Document/IM2301.md
+    - Document/IM2302.md
+    - Document/IM2303.md
+    - Document/IM2304.md
+    - Document/IM2305.md
+    - Document/IM2306.md
+    - Document/IM2307.md
+    - Document/IM2308.md
+    - Document/IM2309.md
+    - Document/IM2310.md
+    - Document/IM2312.md
+    - Document/IM2313.md
+    - Document/IM2314.md
+    - Document/IM2315.md
+    - Document/IM2316.md
+    - Document/IM2317.md
+    - Document/IM2318.md
+    - Document/IM2319.md
+    - Document/IM2320.md
+    - Document/IM2321.md
+    - Document/IM2322.md
+    - Document/IM2323.md
+    - Document/IM2324.md
+    - Document/IM2325.md
+    - Document/IM2326.md
+    - Document/IM2327.md
+  - Doc2:
+    - Doc2/index.md
+      Doc2/shell/PGT12301.md
+      Doc2/shell/PGT12302.md
+  - Doc3:
+    - Doc3/index.md
+    - Doc3/Z2301.md
+    - Doc3/Z2302.md
+    - Doc3/Z2303.md
+    - Doc3/Z2304.md
+    - Doc3/Z2305.md
+    - Doc3/Z2306.md
+  - Network tools:
+    - Network tools/index.md
+    - notes:
+      - Network tools/notes/2307.md
+      - Network tools/notes/2306.md
+      - Network tools/notes/2305.md
+      - Network tools/notes/2304.md
+      - Network tools/notes/2303.md
+      - Network tools/notes/2302.md
+      - Network tools/notes/2301.md
+      - Network tools/notes/2211-2212.md
+      - Network tools/notes/2209-2210.md
+      - Network tools/notes/2207-2208.md
+      - Network tools/notes/2205-2206.md
+      - Network tools/notes/2203-2204.md
+      - Network tools/notes/2201-2202.md
+      - Network tools/notes/2111-2112.md
+      - Network tools/notes/2109-2110.md
+      - Network tools/notes/2107-2108.md
+      - Network tools/notes/2105-2106.md
+      - Network tools/notes/2103-2104.md
+      - Network tools/notes/2101-2102.md
+      - Network tools/notes/2011-2012.md
+      - Network tools/notes/2009-2010.md
+      - Network tools/notes/2007-2008.md
+      - Network tools/notes/2005-2006.md
+      - Network tools/notes/2003-2004.md
+      - Network tools/notes/2001-2002.md
+      - Network tools/notes/0.md
+      - Network tools/notes/1906-1912.md
+      - Network tools/notes/1807-1812.md
+      - Network tools/notes/1801-1806.md
+      - Network tools/notes/17.md
+      - Network tools/notes/16.md
+      - Network tools/notes/230822.md
+  - 关于PUSH:
+    - ME/index.md
+
+# [UI]
+## [top]
+theme:
+  name: material
+  palette:
+    - scheme: default # 日间模式
+      primary: indigo # 上方的
+      accent: orange # 链接等可交互元件的高亮色
+      toggle:
+        icon: material/weather-night # 图标
+        name: 切换至夜间模式 # 鼠标悬浮提示
+    - scheme: slate # 夜间模式
+      primary: indigo
+      accent: orange
+      toggle:
+        icon: material/weather-sunny
+        name: 切换至日间模式
+  features:
+    - navigation.tabs # 使用Tab来进行分类
+    - navigation.top # 返回顶部的按钮 在上滑时出现
+    - navigation.indexes # Tab会有一个index.md 而不是在打开Tab时打开第一篇文章
+    - navigation.expand # 打开Tab时左侧目录全部展开
+    - search.suggest # 搜索输入一些字母时推荐补全整个单词
+    - search.highlight # 搜索出的文章关键词加入高亮
+    - content.code.copy # 可以通过按钮复制代码
+    - content.action.edit # 点击按钮跳转到编辑页面  需要结合 edit_uri 一起使用
+  language: zh # 一些提示性的文字会变成中文
+  icon:
+    repo: fontawesome/brands/telegram
+edit_uri: edit/main/docs # 编辑按钮跳转的链接
+## [top-right corner]
+repo_url: https://github.com/pushkkk/pushkkk.github.io # 右上角点击跳转的链接
+repo_name: ✈️@PUSHHHKKK # 右上角的名字
+## [bottom-left corner]
+copyright: Push CC-BY-4.0 # 左下角的版权声明
+## [bottom-right corner]
+extra:
+  social: # icons
+    - icon: fontawesome/brands/telegram
+      link: https://pushkkk.github.io/pic/IMEAXXX.png
+      name: Telegram | ✈️@PUSHHHKKK # 鼠标悬浮提示
+    - icon: fontawesome/brands/github
+      link: https://pushkkk.github.io
+      name: GitHub | ✈️@PUSHHHKKK 
+
+# [Extensions]
+plugins:
+  - search: # 现在还不支持中文搜索 支持之后可以设置语言
+    # insider已经支持中文的分词搜索了 https://squidfunk.github.io/mkdocs-material/Word/2022/chinese-search-support/
+      lang:
+        - en
+        - ja
+  - tags # 给单篇文章添加标签 https://squidfunk.github.io/mkdocs-material/setup/setting-up-tags/?h=tags
+markdown_extensions:
+  - pymdownx.arithmatex: # latex支持
+      generic: true
+  - attr_list # 给图片后面添加{width="300"}设置大小
+  - toc:
+      permalink: true # 固定标题位置为当前位置
+  - pymdownx.highlight: # 代码块高亮
+      # linenums: true # 显示行号
+      # auto_title: true # 显示编程语言名称
+  - pymdownx.superfences # 代码块高亮插件
+  - meta # 支持Markdown文件上方自定义标题标签等
+  - admonition # https://squidfunk.github.io/mkdocs-material/reference/admonitions/#inline-blocks
+  - pymdownx.details # admonition需要
+
+extra_javascript:
+  # latex支持
+  # check https://squidfunk.github.io/mkdocs-material/reference/mathjax/?h=math for more information
+  # notice `curl https://polyfill.io/v3/polyfill.min.js?features=es6 > docs/mkdocs/javascripts/polyfill.min.js && curl https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js > docs/mkdocs/javascripts/tex-mml-chtml.js` not works... because there are other resources that need to load
+  - mkdocs/javascripts/mathjax.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js # https://cdn.bytedance.com/?query=mathjax&version=3.2.0
+extra_css:
+  - mkdocs/css/no-footer.css # 不使用底部的翻页
+  - mkdocs/css/unordered-list-symbols.css # multiplt unordered list symbols
+  
+  
