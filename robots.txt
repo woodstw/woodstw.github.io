@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://woodstw.github.io/sitemap.xml
